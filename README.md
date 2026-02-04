@@ -45,7 +45,7 @@ Instead of discarding incomplete records, I implemented a statistical imputation
  ### 1. Clone the Repository
 To get a local copy of the code, run the following command in your terminal:
 ```bash
-git clone [https://github.com/bbb1/Restaurant-Sales-Data-Restoration-Analysis.git](https://github.com/bbb1/Restaurant-Sales-Data-Restoration-Analysis.git)
+git clone [https://github.com/bodzx1/Restaurant-Sales-Data-Restoration-Analysis.git](https://github.com/bodzx1/Restaurant-Sales-Data-Restoration-Analysis.git)
 cd Restaurant-Sales-Data-Restoration-Analysis
 ### 2.Install Dependencies
 pip install pandas numpy scikit-learn seaborn plotly jupyter streamlit
