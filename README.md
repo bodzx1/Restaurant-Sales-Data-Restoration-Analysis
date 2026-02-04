@@ -18,7 +18,7 @@ After processing the raw data, the analysis revealed:
 
 * **Seasonal Spikes:** A major revenue surge occurs in **March**, significantly outperforming Winter and Fall months. *Recommendation: Allocate marketing budget and inventory buffers specifically for Q1.*
 * **Product Dominance:** "Pasta Alfredo" is the highest-volume item, while Main Dishes drive the bulk of revenue.
-* ** Customer Loyalty:** High retention rate (many recurring customers), but **Loyalty Status** showed no direct correlation with higher order totals. *Insight: The current loyalty program may need restructuring to incentivize higher spending.*
+* **Customer Loyalty:** High retention rate (many recurring customers), but **Loyalty Status** showed no direct correlation with higher order totals. *Insight: The current loyalty program may need restructuring to incentivize higher spending.*
 * **Payment Trends:** Cash remains the dominant payment method, suggesting that digital transformation in this specific location may face friction.
 
 ## The Data Pipeline
@@ -49,3 +49,4 @@ git clone [https://github.com/bbb1/Restaurant-Sales-Data-Restoration-Analysis.gi
 cd Restaurant-Sales-Data-Restoration-Analysis
 ### 2.Install Dependencies
 pip install pandas numpy scikit-learn seaborn plotly jupyter streamlit
+
